@@ -10607,7 +10607,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:119px;
+  width:57px;
   height:15px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -10625,7 +10625,7 @@
   position:absolute;
   left:995px;
   top:5px;
-  width:119px;
+  width:57px;
   height:15px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
@@ -10636,7 +10636,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:119px;
+  width:57px;
   white-space:nowrap;
 }
 #u63503_div {
@@ -10859,7 +10859,7 @@
 .u63514 {
   position:absolute;
   left:993px;
-  top:49px;
+  top:65px;
   width:77px;
   height:20px;
   font-family:'微软雅黑 Regular', '微软雅黑';
@@ -11108,7 +11108,7 @@
 .u63528 {
   position:absolute;
   left:993px;
-  top:97px;
+  top:113px;
   width:77px;
   height:20px;
   font-family:'微软雅黑 Regular', '微软雅黑';
@@ -11450,7 +11450,7 @@
 .u63549 {
   position:absolute;
   left:993px;
-  top:4px;
+  top:20px;
   width:77px;
   height:20px;
   font-family:'微软雅黑 Regular', '微软雅黑';
@@ -13105,7 +13105,7 @@
 .u63643 {
   position:absolute;
   left:993px;
-  top:70px;
+  top:66px;
   width:77px;
   height:20px;
   font-family:'微软雅黑 Regular', '微软雅黑';
@@ -13141,7 +13141,7 @@
 .u63645 {
   position:absolute;
   left:993px;
-  top:118px;
+  top:114px;
   width:77px;
   height:20px;
   font-family:'微软雅黑 Regular', '微软雅黑';
@@ -13177,7 +13177,7 @@
 .u63647 {
   position:absolute;
   left:993px;
-  top:25px;
+  top:21px;
   width:77px;
   height:20px;
   font-family:'微软雅黑 Regular', '微软雅黑';
@@ -17853,8 +17853,8 @@
 }
 #u63894 {
   position:absolute;
-  left:210px;
-  top:60px;
+  left:222px;
+  top:65px;
   width:1290px;
   height:848px;
   overflow:hidden;
@@ -20841,8 +20841,8 @@
 }
 #u64057 {
   position:absolute;
-  left:288px;
-  top:576px;
+  left:963px;
+  top:46px;
   width:41px;
   height:25px;
   font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
@@ -20862,8 +20862,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:564px;
-  height:80px;
+  width:172px;
+  height:44px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   box-sizing:border-box;
@@ -20890,94 +20890,6 @@
 }
 #u64059 {
   position:absolute;
-  left:290px;
-  top:602px;
-  width:564px;
-  height:80px;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
-  font-weight:400;
-  font-style:normal;
-  font-size:12px;
-  color:#FF3399;
-  line-height:18px;
-}
-#u64060 {
-  position:absolute;
-  left:8px;
-  top:4px;
-  width:556px;
-  word-wrap:break-word;
-}
-#u64061_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:41px;
-  height:25px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
-  font-weight:400;
-  font-style:normal;
-  font-size:20px;
-  color:#FF3399;
-}
-#u64061 {
-  position:absolute;
-  left:963px;
-  top:46px;
-  width:41px;
-  height:25px;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
-  font-weight:400;
-  font-style:normal;
-  font-size:20px;
-  color:#FF3399;
-}
-#u64062 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:41px;
-  white-space:nowrap;
-}
-#u64063_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:172px;
-  height:44px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  box-sizing:border-box;
-  border-width:2px;
-  border-style:solid;
-  border-color:rgba(255, 51, 153, 1);
-  border-top:0px;
-  border-right:0px;
-  border-bottom:0px;
-  border-radius:0px;
-  border-top-left-radius:0px;
-  border-top-right-radius:0px;
-  border-bottom-right-radius:0px;
-  border-bottom-left-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
-  font-weight:400;
-  font-style:normal;
-  font-size:12px;
-  color:#FF3399;
-  line-height:18px;
-}
-#u64063 {
-  position:absolute;
   left:965px;
   top:72px;
   width:172px;
@@ -20989,7 +20901,7 @@
   color:#FF3399;
   line-height:18px;
 }
-#u64064 {
+#u64060 {
   position:absolute;
   left:8px;
   top:4px;
